@@ -4,6 +4,16 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Blog
+- type: heading
+  label: Home
+- type: heading
+  label: Skill Set
+- type: heading
+  label: About Me
+- type: heading
+  label: Portfolio
 - type: directory
   path: exampleSite/content
   label: Pages
