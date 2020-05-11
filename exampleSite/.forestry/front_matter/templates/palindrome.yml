@@ -17,3 +17,5 @@ fields:
       format: markdown
   label: Check to see if a word is a Palindrome
   description: Is the word 'racecar' a palindrome?
+pages:
+- exampleSite/content/Palindrome.md
